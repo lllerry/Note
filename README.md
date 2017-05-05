@@ -17,7 +17,9 @@
 - [React-Native](#react-native)
 - [面试](#面试)
 - [博客推荐](#博客推荐)
+- [开放API](#开放api)
 - [开发者网站](#开发者网站)
+- [读书笔记](#读书笔记)
 
 ## [Android](https://github.com/lllerry/Note/tree/master/Android/README.md)
 
@@ -137,6 +139,8 @@
 ## 读书笔记
 - Android开发艺术探索
 	- [chapter01 Activity的生命周期和启动模式]()
+
+---
 
 #### 转载注意事项
 
