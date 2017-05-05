@@ -106,17 +106,37 @@
 	- [徐宜生](http://blog.csdn.net/eclipsexys)
 	- [GcsSloop](http://gcssloop.com/#blog)
 	- [D_clock爱吃葱花](http://blog.coderclock.com/)
+	- [张涛-开源实验室](https://www.kymjs.com/)
+	- [Lucida](http://zh.lucida.me/)
+	- [技术小黑屋](http://droidyue.com/)
+	- [Trinea](http://www.trinea.cn/)
 
 - 前端
 	- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 	
 ---
 
-## 开发者网站
-
-- [谷歌开发者](https://developers.google.cn/)
+## 开放API
+- [Dribbble](http://developer.dribbble.com/v1/)
+- [gank.io](http://gank.io/api)
+- [豆瓣API](https://developers.douban.com/wiki/?title=guide)
 
 ---
+
+## 开发者网站
+
+- [极客导航](http://www.jikedaohang.com/)
+- [谷歌开发者](https://developers.google.cn/)
+- [Android](https://www.android.com/)
+- [Android Developers](https://developer.android.com/index.html)
+- [Android开发技术周报](http://androidweekly.cn/)
+- [ImportNew](http://www.importnew.com/)
+
+---
+
+## 读书笔记
+- Android开发艺术探索
+	- [chapter01 Activity的生命周期和启动模式]()
 
 #### 转载注意事项
 
