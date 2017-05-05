@@ -6,10 +6,12 @@
 
 **借鉴了[GcsSloop](https://github.com/GcsSloop/AndroidNote)的笔记风格**
 
-这是我在编程成长道路上的学习笔记，记录学习和工作过程中所遇到的问题。 在笔记中会用我自己的原创文章， 同时也会收录许多我自己看过觉得有用的博客链接。
+#### 这是我在编程成长道路上的学习笔记，记录学习和工作过程中所遇到的问题。 在笔记中会用我自己的原创文章， 同时也会收录许多我自己看过觉得有用的博客链接。
 
-## <text style="color:red">申明 ： 我所记录的博文都是自己所看过， 觉得对自己成长有帮助的，不分享那些浪费大家时间的东西。</text>
+> ###我为什么要创建自己的Note?
+> 其一当然是为了记录自己所掌握的知识， 另外也是为了大家能够流程式的去掌握一个知识点， 举个例子， 如果我们要学自定义View， 那其中包括事件传递， view的绘制流程， 基本绘图类的学习，包括很多知识点， 而市面上能将整套流程按顺序整理的博客少之又少， 参差不一， 至今知道的最系统的也就[GcsSloop](https://github.com/GcsSloop/AndroidNote)的自定义View系列了， 本人也在拜读中。 为此， 我建立了这个笔记， 可以更加的加一个知识点以一个流程的形式列下来， 更系统的掌握。
 
+## 申明 ：所有的知识点系列的顺序都是在本人阅读过后排出的，列出的博文都是值得阅读的，自认为是比较合适的学习顺序。如果文章标题后带有【原创】的均为本人原创。
 ## Android
 
 ### RxJava2.0
@@ -25,7 +27,21 @@
 	- [给初学者的RxJava2.0教程(八)](https://juejin.im/post/585b8f741b69e600560602d3)
 	- [给初学者的RxJava2.0教程(九)](https://juejin.im/post/58807ef92f301e00697f6ad8)
 
+### 自定义View系列（包含事件传递， view的绘制流程，绘图类使用）
 
+- 事件传递（又称事件分发机制）
+	- [Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)
+	- [ Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
+	- 阅读[Android开发艺术探索](https://book.douban.com/subject/26599538/)第三章， 掌握知识点。
+	- 巩固：[图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
+
+- View的绘制流程
+	- setContentView（）的源码解析（view是怎样加载到界面上的）可以跳过， 我还没找到好的博文，打算自己写。
+	- [Android LayoutInflater原理分析，带你一步步深入了解View(一)](http://blog.csdn.net/guolin_blog/article/details/12921889) 这篇是让你对setContentView有一个简单的认识 跳过上篇的同学这篇一定要看。
+	- [Android视图绘制流程完全解析，带你一步步深入了解View(二)](http://blog.csdn.net/guolin_blog/article/details/16330267) 对measure,layout,draw的浅析。
+	- 阅读[Android开发艺术探索](https://book.douban.com/subject/26599538/)第四章view的工作原理， 读一遍肯定是不够的。这篇读懂了就能搞懂view的绘制流程了， 不用看其他的博文了。
+	- 拓展： [Android视图状态及重绘流程分析，带你一步步深入了解View(三)](http://blog.csdn.net/guolin_blog/article/details/17045157)这是一篇对view状态分析的博客。 个人认为读一读可以加深对view的认知。
+	- [ Android自定义View的实现方法，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967) 读这篇是对郭霖老师的信仰， 如果你读懂Android开发艺术探索的第四章的话， 应该已经自己练习过两个例子了， 这个例子应该能轻松读懂。
 
 
 #### 转载注意事项
