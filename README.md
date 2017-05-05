@@ -16,6 +16,8 @@
 - [Android](#Android)
 - [React-Native](#react-native)
 - [面试](#面试)
+- [博客推荐](#博客推荐)
+- [开发者网站](#开发者网站)
 
 ## [Android](https://github.com/lllerry/Note/tree/master/Android/README.md)
 
@@ -53,7 +55,7 @@
 	- [ Android自定义View的实现方法，带你一步步深入了解View(四)](http://blog.csdn.net/guolin_blog/article/details/17357967) 读这篇是对郭霖老师的信仰， 如果你读懂Android开发艺术探索的第四章的话， 应该已经自己练习过两个例子了， 这个例子应该能轻松读懂。
 
 - 自定义View
-	- 准备阅读的系列，我还没有阅读 是GcsSloop, 启航的博客。
+	- 准备阅读的系列，我还没有阅读 是GcsSloop, 启舰的博客。
 	- [安卓自定义View教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
 	- [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
 
@@ -91,6 +93,28 @@
 
 ## 面试
 - 敬请期待
+
+---
+
+## 博客推荐
+
+- Android
+	- [Hongyang](http://blog.csdn.net/lmj623565791?viewmode=contents)
+	- [郭霖](http://blog.csdn.net/guolin_blog)
+	- [启舰](http://blog.csdn.net/harvic880925)
+	- [工匠若水](http://blog.csdn.net/yanbober)
+	- [徐宜生](http://blog.csdn.net/eclipsexys)
+	- [GcsSloop](http://gcssloop.com/#blog)
+	- [D_clock爱吃葱花](http://blog.coderclock.com/)
+
+- 前端
+	- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+	
+---
+
+## 开发者网站
+
+- [谷歌开发者](https://developers.google.cn/)
 
 ---
 
