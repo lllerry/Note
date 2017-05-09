@@ -50,7 +50,7 @@
 	- 巩固：[图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
 
 - View的绘制流程
-	- [setContentView（）的源码解析（**原创**](http://imlerry.com/2017/05/08/02.Android%E9%AB%98%E7%BA%A7UI%E7%B3%BB%E5%88%97%EF%BC%881%EF%BC%89-setContentView-%E8%AF%A6%E8%A7%A3/)（view是怎样加载到界面上的）可以跳过。
+	- [setContentView（）的源码解析	**原创**](http://imlerry.com/2017/05/08/02.Android%E9%AB%98%E7%BA%A7UI%E7%B3%BB%E5%88%97%EF%BC%881%EF%BC%89-setContentView-%E8%AF%A6%E8%A7%A3/)（view是怎样加载到界面上的）可以跳过。
 	- [Android LayoutInflater原理分析，带你一步步深入了解View(一)](http://blog.csdn.net/guolin_blog/article/details/12921889) 这篇是让你对setContentView有一个简单的认识 跳过上篇的同学这篇一定要看。
 	- [Android视图绘制流程完全解析，带你一步步深入了解View(二)](http://blog.csdn.net/guolin_blog/article/details/16330267) 对measure,layout,draw的浅析。
 	- 阅读[Android开发艺术探索](https://book.douban.com/subject/26599538/)第四章view的工作原理， 读一遍肯定是不够的。这篇读懂了就能搞懂view的绘制流程了， 不用看其他的博文了。
