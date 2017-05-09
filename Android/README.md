@@ -45,8 +45,6 @@
 
 [为RecyclerView打造通用Adapter 让RecyclerView更加好用](http://blog.csdn.net/lmj623565791/article/details/51118836);
 
-
-
 ### liaoinstan  Android 大牛
 [博客地址](http://blog.csdn.net/liaoinstan)
 
@@ -55,8 +53,12 @@
 
 ### 鸿阳微信公众号推送内容
 
-
 [2017.03.31 Android DiffUtil新工具类，让你的RecyclerView飞一会](http://mp.weixin.qq.com/s/KFK3JJhASojyjMiwntdyYw);
+ 
+###  郭霖公众号推送
+
+[进阶之路：ＭVP+Retrofit+RxJava组合使用](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236866&idx=1&sn=da666831f67303eeb7a57c1591204b43&scene=1&srcid=0830D8tHPARZsvYqvosZdNhp#rd)
+
 
 ### java8
 
