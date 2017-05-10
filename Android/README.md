@@ -39,11 +39,11 @@
 
 ### HongYang Android
 
-### ViewPager
+#### ViewPager
 
 [巧用ViewPager 打造不一样的广告轮播切换效果](http://blog.csdn.net/lmj623565791/article/details/51339751)
 
-### NestScrolling
+#### NestScrolling
 
 [ Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
 
@@ -74,7 +74,7 @@
 
 ## 官方文档
 
-### training
+### training 
 
 [Build a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout/index.html);
 
