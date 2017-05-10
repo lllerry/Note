@@ -39,6 +39,10 @@
 
 ### HongYang Android
 
+### ViewPager
+
+[巧用ViewPager 打造不一样的广告轮播切换效果](http://blog.csdn.net/lmj623565791/article/details/51339751)
+
 ### NestScrolling
 
 [ Android NestedScrolling机制完全解析 带你玩转嵌套滑动](http://blog.csdn.net/lmj623565791/article/details/52204039)
