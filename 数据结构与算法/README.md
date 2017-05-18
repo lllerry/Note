@@ -1,5 +1,0 @@
-- DataStructure(数据结构)
-	- [栈，队列，背包](https://github.com/lllerry/Note/tree/master/数据结构与算法/栈，队列，背包.md)
-- Algorithm（算法）
-	- 排序
-		- 初级排序算法

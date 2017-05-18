@@ -95,12 +95,16 @@
 
 ---
 
-## [算法与数据结构](https://github.com/lllerry/Note/tree/master/数据结构与算法/README.md)
-- DataStructure(数据结构)
-	- [栈，队列，背包](https://github.com/lllerry/Note/tree/master/数据结构与算法/栈，队列，背包.md)
-- Algorithm（算法）
-	- 排序
-		- 初级排序算法
+## 算法与数据结构
+- 基础
+	- [数据抽象]() 
+	- [栈和队列](https://github.com/lllerry/Note/tree/master/数据结构与算法/栈，队列，背包.md)
+	- [算法分析]()
+- 排序
+	- 初级排序算法
+	- 归并排序
+	- 快速排序
+	- 优先队列
 
 ---
 
