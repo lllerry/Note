@@ -1,6 +1,10 @@
 ![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f6307cu3krj30rs05kglz.jpg)
 
-### 作者博客： [博客](http://imlerry.com)
+### 作者博客： 
+- [个人博客](http://imlerry.com)
+- [简书](http://www.jianshu.com/u/3287e4c61439)
+- [掘金](https://juejin.im/user/57fcfe58a3413100601c7be8)
+
 
 ### 作者微博： [Lerry](http://weibo.com/u/5904475839)
 
