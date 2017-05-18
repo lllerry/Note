@@ -126,7 +126,11 @@
 ---
 
 ## 面试
-- 敬请期待
+- Java相关
+	- [ThreadLoacal是什么？说说你对它的理解](http://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/index.html)
+
+- Android相关
+	- 略
 
 ---
 
