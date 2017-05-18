@@ -17,11 +17,12 @@
 - [Android](#android)
 - [React-Native](#react-native)
 - [算法与数据结构](#算法与数据结构)
+- [读书笔记](#读书笔记)
 - [面试](#面试)
 - [博客推荐](#博客推荐)
 - [开放API](#开放api)
 - [开发者网站](#开发者网站)
-- [读书笔记](#读书笔记)
+
 
 ## [Android](https://github.com/lllerry/Note/tree/master/Android/README.md)
 
@@ -98,7 +99,7 @@
 ## 算法与数据结构
 - 基础
 	- [数据抽象]() 
-	- [栈和队列](https://github.com/lllerry/Note/tree/master/数据结构与算法/栈，队列，背包.md)
+	- [栈和队列](https://github.com/lllerry/Note/tree/master/数据结构与算法/栈和队列.md)
 	- [算法分析]()
 - 排序
 	- 初级排序算法
@@ -106,6 +107,18 @@
 	- 快速排序
 	- 优先队列
 
+---
+
+## 读书笔记
+- Android开发艺术探索
+	- [chapter01 Activity的生命周期和启动模式]()
+- 图解HTTP
+	- [整数读书笔记](http://imlerry.com/2017/05/17/%E3%80%8A%E5%9B%BE%E8%A7%A3HTTP%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/)
+- 算法（第四版）
+	- 详见[算法Node](#算法与数据结构)
+- Thinking in Java
+	- 略
+	
 ---
 
 ## 面试
@@ -148,12 +161,6 @@
 - [Android Developers](https://developer.android.com/index.html)
 - [Android开发技术周报](http://androidweekly.cn/)
 - [ImportNew](http://www.importnew.com/)
-
----
-
-## 读书笔记
-- Android开发艺术探索
-	- [chapter01 Activity的生命周期和启动模式]()
 
 ---
 
