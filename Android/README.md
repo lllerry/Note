@@ -39,6 +39,17 @@
 
 ### HongYang Android
 
+### Fragment
+
+[Android Fragment 你应该知道的一切](http://blog.csdn.net/lmj623565791/article/details/42628537)
+
+[Android Fragment 真正的完全解析（上)](http://blog.csdn.net/lmj623565791/article/details/37970961)
+
+[Android Fragment 真正的完全解析（下）](http://blog.csdn.net/lmj623565791/article/details/37992017)
+
+[Android 官方推荐 : DialogFragment 创建对话框](http://blog.csdn.net/lmj623565791/article/details/37815413)
+
+
 #### ViewPager
 
 [巧用ViewPager 打造不一样的广告轮播切换效果](http://blog.csdn.net/lmj623565791/article/details/51339751)
