@@ -102,7 +102,7 @@
 	- [栈和队列](https://github.com/lllerry/Note/tree/master/数据结构与算法/栈和队列.md)
 	- [算法分析]()
 - 排序
-	- 初级排序算法
+	- [初级排序算法](https://github.com/lllerry/Note/tree/master/数据结构与算法/初级排序算法.md)
 	- 归并排序
 	- 快速排序
 	- 优先队列
