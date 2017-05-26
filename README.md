@@ -158,6 +158,7 @@
 - [Dribbble](http://developer.dribbble.com/v1/)
 - [gank.io](http://gank.io/api)
 - [豆瓣API](https://developers.douban.com/wiki/?title=guide)
+- [Last.fm](https://www.last.fm)
 
 ---
 
