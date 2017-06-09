@@ -170,6 +170,8 @@
 - [Android Developers](https://developer.android.com/index.html)
 - [Android开发技术周报](http://androidweekly.cn/)
 - [ImportNew](http://www.importnew.com/)
+- [可以打游戏的编程网站cn.codecombat.com](https://cn.codecombat.com/)
+- [前端学习网站webhek](http://www.webhek.com/)
 
 ---
 
